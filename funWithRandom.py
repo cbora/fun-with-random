@@ -121,7 +121,7 @@ noise_count = 44100*3 # for 3 seconds
 # In[ ]:
 
 # Get the random numbers
-noise = generate_numbers(noise_count, min, max)
+noise = generate_numbers(noise_count, noise_min, noise_max)
 noise = map(int, noise) # convert to integers
 
 
