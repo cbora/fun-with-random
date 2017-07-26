@@ -11,6 +11,7 @@ import wave
 
 
 # ## Create RGB BITMAP of 128 pixels by 128 pixels
+# Another comment
 
 # In[ ]:
 
